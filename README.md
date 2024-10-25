@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sentiment Analysis of Indonesian TikTok Review Using LSTM and IndoBERTweet Algorithm
+  PERBANDINGAN KINERJA PRE-TRAINED INDOBERT-BASE DAN INDOBERT-LITE PADA KLASIFIKASI SENTIMEN ULASAN TIKTOK TOKOPEDIA SELLER CENTER DENGAN MODEL INDOBERT
 </h1>
 
 <p align="center">
