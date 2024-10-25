@@ -13,7 +13,7 @@
   <br/>  
   <b>Teknik Informatika, Universitas Muhammadiyah Malang</b>
   <br/>
-  <a href="wah110803@gmail.com">Wildan Amru Hidayat</a>,
+  <a>Wildan Amru Hidayat</a>,
   <a>Vinna Rahmayanti Setyaning Nastiti</a>
 </p>
 
